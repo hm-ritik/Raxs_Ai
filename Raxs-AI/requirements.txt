@@ -1,8 +1,9 @@
-tensorflow==2.15.0
-streamlit==1.50.0
+tensorflow
+streamlit
 numpy
 opencv-python-headless
 pillow
 scikit-learn
 matplotlib
+
 
